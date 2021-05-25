@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Live Demo of this App : rto-quiz-app.netlify.app
+Live Demo of this App : rto-quiz-app.netlify.app 
+{ Copy and paste to your browser and run it )
 
 ## Available Scripts
 
